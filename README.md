@@ -10,4 +10,3 @@ essai
 =====
 
 test github et git local
->>>>>>> a70a1e35b5e57cff6c8b31dc5ebe030b76acfb23
